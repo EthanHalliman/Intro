@@ -1,3 +1,8 @@
 // Double slashes mean comment
 
 debug.Log("Hello"); These print to the console
+(println)
+
+integer variables are called int, then we name them starting with a lowercase letter
+ex: int myAgeIs
+(var myAgeIs)
