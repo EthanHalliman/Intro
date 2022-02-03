@@ -1,9 +1,9 @@
 // Double slashes mean comment
 
-debug.Log("Hello"); These print to the console
+Debug.Log("Hello"); These print to the console
 (println)
 
-integer variables are called int, then we name them starting with a lowercase letter
+Integer variables are called int, then we name them starting with a lowercase letter
 ex: int myAgeIs
 (var myAgeIs)
 
@@ -11,4 +11,8 @@ If(Input.GetKeyDown("x")
 {
 
 }
-This activates what ever is in the brackets whenever you press the key in the ()
+This activates what ever is in the brackets whenever you press the key in the parenthesis
+up = up arrow key
+down = down arrow key
+return = enter key
+
