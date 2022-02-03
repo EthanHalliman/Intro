@@ -6,3 +6,9 @@ debug.Log("Hello"); These print to the console
 integer variables are called int, then we name them starting with a lowercase letter
 ex: int myAgeIs
 (var myAgeIs)
+
+If(Input.GetKeyDown("x")
+{
+
+}
+This activates what ever is in the brackets whenever you press the key in the ()
