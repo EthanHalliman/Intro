@@ -16,3 +16,9 @@ up = up arrow key
 down = down arrow key
 return = enter key
 
+resetting a variable to a new value
+maxGuess = guess;
+
+recalculating guess average based on new numbers
+guess = (minGuess + maxGuess) / 2;
+
